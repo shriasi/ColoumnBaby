@@ -1,0 +1,51 @@
+/* #snow {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  pointer-events: none;
+  z-index: 1000;
+}*/
+
+.container-wrapper{
+    margin: 0px;
+}
+.section2{
+  background: rgb(153, 36, 36);
+  height: 400px;
+}
+.section1{
+  background: purple;
+  height: 400px;
+}
+.section3{
+  background-color: saddlebrown;
+  height: 500px;
+}
+.section4{
+  background-color: black;
+  height: 300px;
+  border-radius: 100%;
+  margin-top: 50px;
+  margin-left: 200px;
+}
+.section5{
+  background-color: chocolate;
+  height: 400px;
+}
+.section6{
+  background-color: rgb(177, 9, 17);
+  height: 200px;
+  margin-left: 300px;
+  border-radius: 70%;
+}
+.section8{
+
+  background-color: cornsilk;
+  height: 100px;
+  margin-left: 80px;
+  border-radius: 100%;
+  margin-top: 20px;
+
+}
